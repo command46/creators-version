@@ -1,5 +1,10 @@
 [
   {
+  "version":2.378
+    "url":"https://raw.githubusercontent.com/command46/creators-version/main/creators-2.378.zip"
+    "log":"增加一个挑战地图：核心转移\n增加支线战役地图：奇异空间（该地图选择性攻打）\n增加资源:紫石；增加工厂：紫晶洗练厂" 
+  },
+  {
   "version":2.36
     "url":"https://raw.githubusercontent.com/command46/creators-version/main/creators-2.36.zip"
     "log":"yes" 
