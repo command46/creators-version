@@ -1,8 +1,8 @@
 [
   {
   "version":2.378
-    "url":"https://raw.githubusercontent.com/command46/creators-version/main/creators-2.378.zip"
-    "log":"增加一个挑战地图：核心转移\n增加支线战役地图：奇异空间（该地图选择性攻打）\n增加资源:紫石；增加工厂：紫晶洗练厂" 
+    "url":"https://raw.githubusercontent.com/command46/creators-version/main/creators-2.43.2.zip"
+    "log":"修复分类器贴图问题\n降低资源分配区2的难度：进图给予30秒准备时间\n\感谢硫缺铅对创世神的英翻、感谢花杨的贴图供应notice = \n\n[#ffffff]符号说明：[#e4ef4b]#[]为支线，[#dd8eff]*[]为主线，[#21CEFF]⚠[]为挑战\n[#D279FD]创世神-起源[#F2F133]模组战役较难，出怪时间短，怪物比较强大，建议做好稳固的资源后勤\n\[#98f0ff]本模组已内置[#f2ff98]游戏变速功能[]。在设置里，可以适当减少肝度\n\[red]如果你修改本模组任何数据请自己游玩，严禁把修改后的模组对外公开[]" 
   },
   {
   "version":2.36
